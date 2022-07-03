@@ -1,4 +1,4 @@
-FROM debian:buster
+FROM debian:bullseye
 LABEL maintainer="Max Kratz <account@maxkratz.com>"
 ENV DEBIAN_FRONTEND=noninteractive
 

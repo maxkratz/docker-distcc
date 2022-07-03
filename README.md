@@ -4,7 +4,7 @@
 
 distcc image
 based on:
-debian 10 (buster),
+debian 11 (bullseye),
 distcc 3.3
 
 Prebuild images can be found at [Dockerhub](https://hub.docker.com/r/maxkratz/distcc).
