@@ -1,6 +1,6 @@
 # docker-distcc
 
-[![Build Status](https://github.ci.maxkratz.com/api/badges/maxkratz/docker-distcc/status.svg)](https://github.ci.maxkratz.com/maxkratz/docker-distcc)
+[![Build Docker images](https://github.com/maxkratz/docker-distcc/actions/workflows/build.yml/badge.svg)](https://github.com/maxkratz/docker-distcc/actions/workflows/build.yml)
 
 distcc image
 based on:
@@ -28,7 +28,7 @@ docker logs -f distccd
 
 ## Dockerfile
 The Dockerfile can be found at:
-[https://github.com/maxkratz/docker-distcc/blob/master/Dockerfile](https://github.com/maxkratz/docker-distcc/blob/master/Dockerfile)
+[https://github.com/maxkratz/docker-distcc/blob/main/Dockerfile](https://github.com/maxkratz/docker-distcc/blob/main/Dockerfile)
 
 ## Issues & Contribution
 If you find any problems, bugs or missing packages, feel free to open an [issue on github](https://github.com/maxkratz/docker-distcc/issues).
