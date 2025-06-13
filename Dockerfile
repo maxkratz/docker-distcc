@@ -1,5 +1,5 @@
 FROM debian:bullseye
-LABEL maintainer="Max Kratz <account@maxkratz.com>"
+LABEL maintainer="Max Kratz <github@maxkratz.com>"
 ENV DEBIAN_FRONTEND=noninteractive
 
 RUN apt-get update -q && \
